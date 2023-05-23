@@ -100,3 +100,19 @@
 </p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+<h2>Steps to get started</h2>
+
+<ol>
+    <li>:fire: Join the UFund-Me GitHub Org by raising an <a href="https://github.com/UFund-Me/.github/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
+    <li> :fire: Join our UFund-Me <a href="https://github.com/UFund-Me/.github/assets/29084184/26b94ffc-70d5-4674-977c-bb82cbf4f60a">WeChat Group(微信群)</a> community, where you can chat with the community and also ask any questions</li>
+    <li> Want to learn more about GitHub, watch Charmve's video here <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ">Getting started with GitHub</a>
+    <li> Practice the Open Source workflow by adding your name to our <a href="https://github.com/UFund-Me/hacktoberfest-practice">hacktoberfest-practice</a> repo (instructions are in the repo and/or watching this <a href="https://www.youtube.com/watch?v=8B_JWf7pG20">video</a> by Eddie)</li>
+    <li> Get more GREEN squares by adding your profile to our <a href="https://github.com/UFund-Me/Community">UFund-MeCommunity</a> (Open Source alternative to LinkTree) for your custom UFund-Me url</li>
+    <li> Make your GitHub profile stand out with this <a href="http://eddiejaoude.io/course-github-profile-landing">free text/video course</a>, which also has quiz and certificate</li>
+    <li> Have a look at our Good First Issue Finder <a href="https://github.com/EddieHubCommunity/good-first-issue-finder">project</a></li>
+    <li> Append your Discord/Twitter username with "UFund-Me" (for example "Eddie Jaoude | UFund-Me")</li>
+</ol>
+
+<p>Learn more about GitHub, Open Source and UFund-Me by subscribing to Charmve on <a href="https://www.youtube.com/watch?v=9eLR_GP1doM">YouTube</a></p>
+</p>
