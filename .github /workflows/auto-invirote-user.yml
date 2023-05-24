@@ -1,0 +1,30 @@
+name: Invite User to Organization
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  invite_user:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if issue title is "Invite me"
+        id: check_title
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const title = context.payload.issue.title;
+          return {
+            shouldInvite: title === "Please invite me to the GitHub Community Organization",
+            issueNumber: context.issue.number,
+            username: context.payload.issue.user.login
+          }
+      - name: Invite user to organization
+        if: steps.check_title.outputs.shouldInvite == true
+        uses: peter-evans/create-or-update-org-invitation@v2
+        with:
+          org-name: UFund-Me
+          invitee: ${{steps.check_title.outputs.username}}
