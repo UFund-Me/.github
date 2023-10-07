@@ -37,7 +37,7 @@
 		</h2>
       <a href="https://github.com/UFund-Me/Qbot">
         <div>
-          <img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" width="120" alt="Qbot">
+          <img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/gui/imgs/UFund.png" width="120" alt="Qbot">
         </div>
         <b>AI autonomous trading bot</b>
         <div>
