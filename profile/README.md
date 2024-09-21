@@ -16,18 +16,22 @@ UFund-Me Inc. 是一家AI量化投研工具和服务提供方，我们提供以�
 <table>
 	<tbody>
 		<tr>
-			<td align="center">	
-				<b>量化交易投研工具<br>Qbot</b>
+			<td align="center">
+				<img align="left" style="vertical-align:center;" src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" width="32">
+				<h4>量化交易投研工具</h4>Qbot
 			</td>
 			<td align="center">
-				<b>量化交易投研服务<br>《AI量化交易投研室》</b>
+				<img align="left" style="vertical-align:center;" src="https://github.com/user-attachments/assets/12b4e39d-d955-4281-a065-ce0c149b36fe" width="32">
+				<h4>量化交易投研服务</h4>《AI量化交易投研室》知识星球
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<li>开源版: https://github.com/UFund-Me/Qbot</li>
-				<li>付费版Pro: 支持个人及证券公司通道，版本介绍参考<a href="https://github.com/UFund-Me/Qbot#highlights">这里</a> | 版本对比参考<a href="https://github.com/UFund-Me/Qbot#qbot-%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E">这里</a></li>
-			</td>
+
+- 开源版: https://github.com/UFund-Me/Qbot
+- 付费版Pro: 联系微信YIda_Zhang2 
+	- 支持个人及证券公司通道，版本介绍参考<a href="https://github.com/UFund-Me/Qbot#highlights">这里</a> | 版本对比参考<a href="https://github.com/UFund-Me/Qbot#qbot-%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E">这里</a>
+   			</td>
 			<td>
    				<li>量化学习资料、研报解读与复现</li>
 				<li>AI策略和实盘接入demo源代码</li>
@@ -70,7 +74,7 @@ UFund-Me Inc. 是一家AI量化投研工具和服务提供方，我们提供以�
 		</h2>
       <a href="https://github.com/UFund-Me/Qbot">
         <div>
-          <img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/gui/imgs/UFund.png" width="120" alt="Qbot">
+          <img src="https://raw.githubusercontent.com/UFund-Me/Qbot/main/qbot/asserts/statics/imgs/UFund.png" width="120" alt="Qbot">
         </div>
         <b>AI autonomous trading bot</b>
         <div>
